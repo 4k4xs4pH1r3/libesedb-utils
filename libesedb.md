@@ -1,5 +1,7 @@
 Extensible Storage Engine DB access library -- Utilities
 
+Last Version 20181229-3
+
 https://github.com/libyal/libesedb
 
 libesedb is a library to access the Extensible Storage Engine (ESE)
